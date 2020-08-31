@@ -9,8 +9,24 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <properties>
+        <jackson.version>2.9.8</jackson.version>
+        <jest.version>6.3.1</jest.version>
+    </properties>
     <groupId>com.xyg.learn</groupId>
     <artifactId>learn-elastic-search</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.searchbox</groupId>
+            <artifactId>jest</artifactId>
+            <version>${jest.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>${jackson.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>

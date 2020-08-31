@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>learn-elastic-search</module>
+        <module>java-basic</module>
     </modules>
 
 
