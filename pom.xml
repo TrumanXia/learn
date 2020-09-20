@@ -11,6 +11,7 @@
     <modules>
         <module>learn-elastic-search</module>
         <module>java-basic</module>
+        <module>learn-redisson</module>
     </modules>
 
 
