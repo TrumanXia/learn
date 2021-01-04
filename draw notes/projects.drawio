@@ -1,0 +1,73 @@
+<mxfile host="65bd71144e" modified="2021-01-04T12:20:52.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="XElWZZA2BTUZjVrJeuIC" version="13.10.0" type="embed">
+    <diagram id="N8jkDLk7Amj-sibJUGd5" name="Page-1">
+        <mxGraphModel dx="990" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.337;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;" edge="1" parent="1" source="2" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="软件信息树系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="-140" width="580" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="spring boot" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="-60" width="300" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="local cache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="-70" width="170" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="hashmap" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="-30" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="guava" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="-30" width="55" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="250" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="mybatis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="200" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="304" y="220" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="150" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="14" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="57" y="455" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="软件构建数据收集系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="307" y="430" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="漏洞系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="627" y="430" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="其他系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="30" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="mysql 调优" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="290" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="jvm 调优" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="347" y="560" width="100" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
