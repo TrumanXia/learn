@@ -32,7 +32,17 @@
             <artifactId>jol-core</artifactId>
             <version>0.9</version>
         </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>28.2-jre</version>
+        </dependency>
 
+        <dependency>
+            <groupId>io.reactivex</groupId>
+            <artifactId>rxjava</artifactId>
+            <version>1.3.8</version>
+        </dependency>
     </dependencies>
 
 </project>

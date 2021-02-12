@@ -1,4 +1,4 @@
-<mxfile host="65bd71144e" modified="2021-01-18T22:34:39.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="GE_yB4AuJQMhNzGNr9YW" version="13.10.0" type="embed">
+<mxfile host="65bd71144e" modified="2021-02-11T11:01:11.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="BkBthJkI4EP_4Y_8dFbT" version="13.10.0" type="embed">
     <diagram id="N8jkDLk7Amj-sibJUGd5" name="Page-1">
         <mxGraphModel dx="1817" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
@@ -58,7 +58,7 @@
                 <mxCell id="15" value="软件构建数据收集系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" parent="1" vertex="1">
                     <mxGeometry x="307" y="430" width="200" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="57" target="55">
+                <mxCell id="56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="57" target="55" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="漏洞系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" parent="1" vertex="1">
@@ -74,7 +74,7 @@
                     <mxGeometry x="347" y="560" width="100" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="spring boot 全家桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;" parent="1" vertex="1">
-                    <mxGeometry x="-590" y="100" width="460" height="510" as="geometry"/>
+                    <mxGeometry x="-590" y="90" width="460" height="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="eureka" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
                     <mxGeometry x="-550" y="160" width="120" height="60" as="geometry"/>
@@ -89,9 +89,9 @@
                     <mxGeometry x="-510" y="240" width="320" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" value="sleuth + zipkin 链路追踪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-                    <mxGeometry x="-495" y="320" width="290" height="60" as="geometry"/>
+                    <mxGeometry x="-495" y="310" width="290" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="熔断 hystrix 断路器 对于生产者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+                <mxCell id="42" value="熔断&amp;nbsp; 断路器 对于生产者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
                     <mxGeometry x="-440" y="460" width="150" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" value="降级 对于 消费者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
@@ -127,32 +127,35 @@
                 <mxCell id="53" value="基线信息树" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontSize=21;" parent="1" vertex="1">
                     <mxGeometry x="610" y="-225" width="140" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="55" target="61">
+                <mxCell id="62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" parent="1" source="55" target="61" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="gridFS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+                <mxCell id="55" value="gridFS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" parent="1" vertex="1">
                     <mxGeometry x="627" y="690" width="200" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="漏洞验证和分析报告&lt;br style=&quot;font-size: 17px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+                <mxCell id="57" value="漏洞验证和分析报告&lt;br style=&quot;font-size: 17px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
                     <mxGeometry x="647" y="610" width="160" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="16" target="57">
+                <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="16" target="57" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="727" y="540" as="sourcePoint"/>
                         <mxPoint x="727" y="660" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59" value="kafka如何做到高可用" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="59" value="kafka如何做到高可用" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="57" y="565" width="123" height="55" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="rocketmq 如何做到高可用" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="60" value="rocketmq 如何做到高可用" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="319.5" y="-245" width="123" height="55" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="elastic search" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
+                <mxCell id="61" value="elastic search" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;" parent="1" vertex="1">
                     <mxGeometry x="627" y="930" width="200" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" value="全文检索 上传报告的数据" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="63" value="全文检索 上传报告的数据" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="410" y="970" width="200" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="hystrix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;opacity=30;verticalAlign=top;align=right;" vertex="1" parent="1">
+                    <mxGeometry x="-470" y="376.25" width="240" height="217.5" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
