@@ -1,6 +1,7 @@
 package lambda;
 
 import rx.Single;
+import rx.schedulers.Schedulers;
 
 import java.util.Locale;
 
@@ -9,8 +10,9 @@ import java.util.Locale;
  * @since 2021-02-12
  */
 public class RxJavaDemo {
-    public static void main(String[] args) {
-        Single.just(new NewsLetter().init()).subscribe(RxJavaDemo::println);
+    public static void main(String[] args) throws InterruptedException {
+        Single.just(new NewsLetter().init()).subscribeOn(Schedulers.io()).subscribe(RxJavaDemo::println);
+        Thread.sleep(100);
     }
 
     public static class NewsLetter {

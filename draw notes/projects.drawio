@@ -1,6 +1,6 @@
-<mxfile host="65bd71144e" modified="2021-02-11T11:01:11.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="BkBthJkI4EP_4Y_8dFbT" version="13.10.0" type="embed">
+<mxfile host="65bd71144e" modified="2021-02-17T12:57:07.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.53.0 Chrome/87.0.4280.141 Electron/11.2.1 Safari/537.36" etag="aM8q2oqPej-TyfuWECK2" version="13.10.0" type="embed">
     <diagram id="N8jkDLk7Amj-sibJUGd5" name="Page-1">
-        <mxGraphModel dx="1817" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2810" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -154,8 +154,14 @@
                 <mxCell id="63" value="全文检索 上传报告的数据" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="410" y="970" width="200" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="hystrix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;opacity=30;verticalAlign=top;align=right;" vertex="1" parent="1">
+                <mxCell id="64" value="hystrix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;opacity=30;verticalAlign=top;align=right;" parent="1" vertex="1">
                     <mxGeometry x="-470" y="376.25" width="240" height="217.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="邮件报警系统&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=22;" parent="1" vertex="1">
+                    <mxGeometry x="-93" y="-550" width="400" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="ribbon 项目没有用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;opacity=30;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="-870" y="376.25" width="170" height="73.75" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
